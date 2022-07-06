@@ -1,0 +1,19 @@
+
+  header { 
+    background-color: #1abc9c;
+    color: #ffffff;
+  }
+  body { 
+    background-color: #474e5d;
+    color: #ffffff; 
+    text-align: center;
+
+  }
+  div { 
+    background-color: #ffffff;
+    color: #555555;
+  }
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
